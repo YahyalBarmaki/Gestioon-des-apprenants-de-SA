@@ -1,0 +1,23 @@
+body
+{
+    background-color: #fff;
+}
+.formu
+{
+    position: relative;
+    right: -25%;
+    border: 1px solid black;
+    width: 50%;
+    background-color: rgb(4, 167, 243);
+    bottom: -10px;
+}
+#centre
+{
+    position: relative;
+    right: -30%;
+}
+p
+{
+    color: #fff;
+    font-size: 20px;
+}

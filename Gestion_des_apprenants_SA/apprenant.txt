@@ -1,0 +1,20 @@
+1:ASTA:Ababacar:2000-05-06:781736826:ababacarasta@gmail.com:présent:Alioune:
+2:BADIANE:Marie Antoinette Elina:1995-05-07:777422779:badianeelina8@gmail.com:présent:Alioune:
+3:BALDE:Penda:1999-02-01:776236327:penda.balde@uvs.edu.sn:présent:Alioune:
+4:BEYE:Mamadou Lamine:2000-05-07:773373841:laminebeye007@gmail.com:présent:Alioune:
+5:BITEYE:Bassirou:2000-04-10:771523139:bassbiteye45@gmail.com:présent:Alioune:
+6:CAMARA:Aboubacar:1802-04-21:778584822:babacamara91@gmail.com:présent:Alioune:
+7:COLY:Babacar:1998-10-15:777503090:babacarcoly91@gmail.com:présent:Alioune:
+8:COLY:Senghor Coly:1996-05-13:771933121:sakouthiang@gmail.com:présent:Alioune:
+9:DABO:Adji Anta:0958-01-29:772467662:dablisco@gmail.com:présent:Alioune:
+10:FALL:Mamadou:2000-04-30:772147595:fallmodou950@gmail.com:présent:Alioune:
+11:DIALLO:Binetou:1989-04-30:774688838:perlbrillante@hotmail.fr:présent:Baye NIASS:
+12:DIOP:Rokhaya Niakh:1993-10-02:781766172:rokhayaniakh@gmail.com:présent:Baye NIASS:
+13:DRAME:Aminata:2000-12-07:778345480:drameaminata1509@gmail.com:présent:Baye NIASS:
+14:GAYE:Ndiaga:2000-11-03:771817731:gaye.ndiaga@ugb.edu.sn:présent:Baye NIASS:
+15:GOMIS:Jean Marie:1995-08-07:772957710:gomisj170@gmail.com:présent:Alioune:
+15:LY:El Hadji Yaya:1997-02-07:772652363:yalya96@gmail.com:présent:Baye NIASS:
+16:MBOUP:Birame:1995-12-07:777054052:mbirame2000@gmail.com:présent:Baye NIASS:
+17:NDIAYE:Abdoul Aziz Sy:1995-02-10:771265395:ndiayedabakh97@gmail.com:présent:Baye NIASS:
+18:NDIAYE:Seynabou:2000-12-10:778106222:ndiayzeynabou@gmail.com:présent:Baye NIASS:
+19:SENE:AWA NDIAYE:1999-11-07:771301409:awandiayesene7@gmail.com:présent:Baye NIASS:
